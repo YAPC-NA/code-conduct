@@ -58,6 +58,9 @@ subject to unacceptable behavior, or have any other concerns, please notify
 [coc@yapcna.org](mailto:coc@yapcna.org) if possible or if impractical, Will
 Braswell as soon as possible.
 
+Conference attendees are strongly encouraged to use our dispute resolution
+system before taking any dispute public.
+
 ## Contact Information:
 
 
