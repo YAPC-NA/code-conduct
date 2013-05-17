@@ -17,7 +17,7 @@ everyone.
 
 We expect all conference participants (sponsors, volunteers, speakers,
 attendees, vendors, and other guests) to abide by this code of conduct at all
-conference venues and conference-related social events.
+conference venues and conference-organized social events.
 
 ## 3. Expected Behavior
 
